@@ -1,0 +1,18 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "Exercise",
+      "category": "Health",
+      "streak": 5,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Read a Book",
+      "category": "Learning",
+      "streak": 2,
+      "completed": true
+    }
+  ]
+}
